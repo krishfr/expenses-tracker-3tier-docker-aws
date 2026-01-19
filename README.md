@@ -24,6 +24,7 @@ AWS EC2
 docs/3-Tier expenses tracker architecture on AWS.png
 
 ## Project Structure
+```bash
 expenses-tracker-3tier-docker-aws/
 ├── .mvn/                     # Maven wrapper configuration
 ├── docs/
@@ -44,7 +45,7 @@ expenses-tracker-3tier-docker-aws/
 ├── mvnw.cmd                  # Maven wrapper script (Windows)
 ├── pom.xml                   # Maven project configuration
 └── README.md                 # Project documentation
-
+```
 ## Demo Video
 Full deployment and working demo:
 https://drive.google.com/file/d/1SntEY1P1CNW4SImHkVnpSbDWzKwy_zl_/view?usp=drive_link
